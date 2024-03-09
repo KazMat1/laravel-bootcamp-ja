@@ -18,3 +18,6 @@ hugo new content {path/_index.md}
 ```
 hugo server
 ```
+
+## ref
+theme: https://learn.netlify.app/en/basics/
