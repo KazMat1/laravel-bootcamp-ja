@@ -18,7 +18,7 @@ Laravelは非常に柔軟で、あなたのニーズに合わせた幅広い技�
 
 ```blade filename=welcome.blade.php
 Greetings {{ $friend }}, let's build Chirper with Blade!
-
+```
 <a href="/blade/installation" class="group relative inline-flex border border-red-600 focus:outline-none mt-2 no-underline">
     <span class="w-full inline-flex items-center justify-center self-stretch px-4 py-2 text-sm text-red-600 text-center font-bold uppercase bg-white dark:bg-dark-700 ring-1 ring-red-600 ring-offset-1 dark:ring-offset-dark-600 transform transition-transform group-hover:-translate-y-1 group-hover:-translate-x-1 group-focus:-translate-y-1 group-focus:-translate-x-1">Build Chirper with Blade</span>
 </a>
