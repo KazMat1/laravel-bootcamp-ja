@@ -1,0 +1,3 @@
+baseURL = "https://example.org"
+themesDir = "themes"
+theme = "hugo-theme-learn"
